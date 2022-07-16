@@ -11,6 +11,8 @@
 		2E92930C28825FCF00CA6441 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E92930B28825FCF00CA6441 /* ContentView.swift */; };
 		2E92930E28825FD100CA6441 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E92930D28825FD100CA6441 /* Assets.xcassets */; };
 		2E92931128825FD100CA6441 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E92931028825FD100CA6441 /* Preview Assets.xcassets */; };
+		2E92931828825FEC00CA6441 /* CatFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E92931728825FEC00CA6441 /* CatFactView.swift */; };
+		2E92931A28825FF400CA6441 /* CatImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E92931928825FF400CA6441 /* CatImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2E92930B28825FCF00CA6441 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2E92930D28825FD100CA6441 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E92931028825FD100CA6441 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2E92931728825FEC00CA6441 /* CatFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactView.swift; sourceTree = "<group>"; };
+		2E92931928825FF400CA6441 /* CatImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				2E92930928825FCF00CA6441 /* SAP_L16_CatsApp.swift */,
 				2E92930B28825FCF00CA6441 /* ContentView.swift */,
+				2E92931728825FEC00CA6441 /* CatFactView.swift */,
+				2E92931928825FF400CA6441 /* CatImageView.swift */,
 				2E92930D28825FD100CA6441 /* Assets.xcassets */,
 				2E92930F28825FD100CA6441 /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E92930C28825FCF00CA6441 /* ContentView.swift in Sources */,
+				2E92931828825FEC00CA6441 /* CatFactView.swift in Sources */,
 				2E92930A28825FCF00CA6441 /* SAP_L16_CatsApp.swift in Sources */,
+				2E92931A28825FF400CA6441 /* CatImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
